@@ -2,11 +2,8 @@ extra/python-crypto
 extra/python-nose
 extra/python-requests
 extra/python-urllib3
-
 extra/pygobject2-devel
 extra/python2-gobject2
-
-extra/perl-locale-gettext
 extra/help2man
 extra/autogen
 extra/libmp4v2
@@ -25,16 +22,11 @@ extra/faac
 extra/mjpegtools
 extra/mpg123
 extra/tinycdb
-
 extra/speexdsp
 extra/spandsp
 extra/soundtouch
 extra/gst-plugins-bad
-
 extra/appstream-glib
-extra/opencl-headers
-
-# openrc-world deps
 extra/dnsmasq
 extra/postgresql-libs
 extra/postfix
@@ -44,3 +36,16 @@ extra/bitlbee
 extra/bind
 extra/lirc
 extra/transmission-cli
+extra/docbook-dsssl
+extra/docbook-sgml31
+extra/openjade
+extra/docbook-sgml
+extra/sgml-common
+extra/lynx
+extra/ocaml
+extra/ocaml-ctypes
+extra/ocamlbuild
+extra/python2-cffi
+extra/r
+extra/python2-pycparser
+extra/php
