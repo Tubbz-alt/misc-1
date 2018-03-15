@@ -2,11 +2,6 @@ extra/python-crypto
 extra/python-nose
 extra/python-requests
 extra/python-urllib3
-extra/pygobject2-devel
-extra/python2-gobject2
-extra/ocaml
-extra/ocaml-ctypes
-extra/ocamlbuild
 extra/python2-cffi
 extra/python2-pycparser
 extra/php
@@ -19,14 +14,7 @@ extra/perl-net-ssleay
 extra/perl-uri
 extra/perl-http-daemon
 extra/perl-io-socket-ssl
-extra/docbook-dsssl
-extra/docbook-sgml31
-extra/openjade
-extra/docbook-sgml
-extra/sgml-common
-
 extra/help2man
-extra/autogen
 extra/libmp4v2
 extra/libmpdclient
 extra/audiofile
@@ -36,9 +24,6 @@ extra/neon
 extra/sbc
 extra/enchant
 extra/chromaprint
-extra/ttf-liberation
-extra/pygobject2-devel
-extra/python2-gobject2
 extra/faac
 extra/mjpegtools
 extra/mpg123
@@ -46,7 +31,6 @@ extra/tinycdb
 extra/speexdsp
 extra/spandsp
 extra/soundtouch
-extra/gst-plugins-bad
 extra/appstream-glib
 extra/dnsmasq
 extra/postgresql-libs
