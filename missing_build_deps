@@ -1,11 +1,8 @@
-extra/help2man
-extra/chromaprint
-extra/faac
-extra/mpg123
-extra/speexdsp
-extra/spandsp
-extra/soundtouch
 extra/appstream-glib
 extra/wicd
 extra/mpd
 extra/transmission-cli
+extra/gvfs
+
+community/open-vm-tools
+community/virtualbox-guest-utils
