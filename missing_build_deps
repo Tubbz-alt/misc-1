@@ -1,6 +1,4 @@
 extra/help2man
-extra/audiofile
-extra/enchant
 extra/chromaprint
 extra/faac
 extra/mpg123
@@ -8,10 +6,6 @@ extra/speexdsp
 extra/spandsp
 extra/soundtouch
 extra/appstream-glib
-extra/dnsmasq
 extra/wicd
 extra/mpd
-extra/bitlbee
-extra/bind
-extra/lirc
 extra/transmission-cli
