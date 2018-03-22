@@ -3,6 +3,19 @@ extra/wicd
 extra/mpd
 extra/transmission-cli
 extra/gvfs
+extra/opencv
+
+extra/hwloc
+extra/glibmm
+extra/numactl
+extra/pangomm
+extra/gtk-sharp-2
+extra/openmpi
+extra/libgdiplus
+extra/jre8-openjdk
+extra/jre8-openjdk-headless
+extra/gtkmm3
+extra/jdk8-openjdk
 
 community/open-vm-tools
 community/virtualbox-guest-utils
